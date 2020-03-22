@@ -70,6 +70,6 @@ private String curentPath ="C:\\Users\\abodi\\Downloads";
 
     @Override
     public void moveFolders(){
-
+        files.move();
     }
 }
